@@ -15,7 +15,6 @@ class QuizStatementAdapter(private val quizStatements: List<QuizStatement>) :
             itemView.quiz_statement.text = quizStatement.quizStatementText
 
             itemView.setOnClickListener {
-
             }
         }
     }

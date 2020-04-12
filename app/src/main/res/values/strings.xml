@@ -5,7 +5,7 @@
     <string name="statement_1">A \'val\' and \'var\' are the same.</string>
     <string name="statement_2">Mobile Application Development grants 12 ECTS.</string>
     <string name="statement_3">A Unit in Kotlin corresponds to a void in Java.</string>
-    <string name="statement_4">In Kotlin \'when\' replaces the \'switch\' operator in Java</string>
+    <string name="statement_4">In Kotlin \'when\' replaces the \'switch\' operator in Java.</string>
     <string name="correct">Answer is correct</string>
     <string name="incorrect">Answer is not correct</string>
 </resources>
